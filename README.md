@@ -1,8 +1,30 @@
-# React + Vite
+This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<ins>App Preview</ins>
+![Project Preview](src/images/app.png)
 
-Currently, two official plugins are available:
+## Available Scripts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In the project directory, you can run:
+
+### `npm install`
+
+Instal All dependencies in this project
+
+### `npm run dev`
+
+Runs the app in the development mode.<br />
+Open [http://127.0.0.1:5173](http://127.0.0.1:5173) to view it in the browser.
+
+### Link
+
+- Vite: https://vitejs.dev/guide/
+- Material UI: https://mui.com/
+- Background : https://codepen.io/P1N2O/pen/pyBNzX
+- Box Shadow: https://box-shadow.dev/
+- List Countries API: https://restcountries.com/v3.1/all
+- freecurrencyapi API: https://app.freecurrencyapi.com/dashboard
+
+### Video Tutorial
+
+You can see my youtube video for this project in [here](https://youtu.be/r8zwDzlNSsA)
